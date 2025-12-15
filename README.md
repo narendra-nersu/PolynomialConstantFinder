@@ -115,16 +115,6 @@ The program prints and generates `output.json` in the following format:
 
 ---
 
-## ✅ Key Highlights
-
-* No hard‑coding of values
-* Exact arithmetic using `BigInteger`
-* JSON input & JSON output
-* Follows problem constraints strictly
-* Interview‑ready explanation
-
----
-
 ## 📝 Final Note
 
 This solution focuses on **correctness, clarity, and adherence to instructions**, making it suitable for both evaluation and interview discussion.
